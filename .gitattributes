@@ -1,0 +1,2 @@
+data/var/lib/pacman/sync/core.db filter=lfs diff=lfs merge=lfs -text
+data/var/lib/pacman/sync/extra.db filter=lfs diff=lfs merge=lfs -text
