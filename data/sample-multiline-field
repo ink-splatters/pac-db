@@ -1,0 +1,25 @@
+Name            : weston
+Version         : 14.0.0-2
+Description     : Reference implementation of a Wayland compositor
+Architecture    : x86_64
+URL             : https://wayland.freedesktop.org/
+Licenses        : MIT
+Groups          : None
+Provides        : None
+Depends On      : fontconfig  glibc  wayland  libxkbcommon  libinput  libunwind  pixman  libdrm  pam  systemd-libs  cairo  libpng  libjpeg-turbo  libwebp  mesa  libegl  libevdev  libgles  glib2  pango  lcms2  mtdev  libx11  libxcb  dbus  libva  libxcursor  colord  seatd  gstreamer  gst-plugins-base-libs
+Optional Deps   : xorg-xwayland: support x11 backend [installed]
+                  libpipewire: support pipewire backend [installed]
+                  freerdp2: support rdp backend
+                  neatvnc: support vnc backend [installed]
+                  libdisplay-info: support drm backend [installed]
+Required By     : None
+Optional For    : None
+Conflicts With  : None
+Replaces        : None
+Installed Size  : 5.72 MiB
+Packager        : Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+Build Date      : Sat 14 Sep 2024 06:38:22 AM CEST
+Install Date    : Mon 30 Sep 2024 03:03:10 PM CEST
+Install Reason  : Installed as a dependency for another package
+Install Script  : No
+Validated By    : Signature

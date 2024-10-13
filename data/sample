@@ -1,0 +1,21 @@
+Name            : a52dec
+Version         : 0.8.0-2
+Description     : Library for decoding ATSC A/52 (AC-3) audio streams
+Architecture    : x86_64
+URL             : https://git.adelielinux.org/community/a52dec/
+Licenses        : GPL
+Groups          : None
+Provides        : None
+Depends On      : glibc
+Optional Deps   : None
+Required By     : vlc
+Optional For    : None
+Conflicts With  : None
+Replaces        : None
+Installed Size  : 136.04 KiB
+Packager        : Balló György <bgyorgy@archlinux.org>
+Build Date      : Fri 02 Jun 2023 04:06:10 PM CEST
+Install Date    : Thu 09 May 2024 01:08:56 PM CEST
+Install Reason  : Installed as a dependency for another package
+Install Script  : No
+Validated By    : Signature
