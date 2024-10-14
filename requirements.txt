@@ -1,0 +1,9 @@
+click
+mypy[mypyc]
+numpy
+pip
+polars
+py-cpuinfo
+setuptools
+wheel
+zstandard

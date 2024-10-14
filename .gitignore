@@ -2,3 +2,5 @@
 /data/dump
 *.csv
 *.tsv
+/build
+*.so
